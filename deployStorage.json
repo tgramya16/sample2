@@ -28,7 +28,7 @@
                     "name": "AllowAllWindowsAzureIps",
                     "properties": {
                         "startIpAddress": "0.0.0.0",
-                        "endIpAddress": "0.0.0.0.00.000"
+                        "endIpAddress": "0.0.0.0.00.000.111"
                     }
                 }
             ]
